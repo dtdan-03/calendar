@@ -1,6 +1,9 @@
 import calendar
 
-# calendar  for 2022
+# calendar example for 2022
+
+# set year: year=20xx
+# set month: month=1 /month=2 /month=...     (January: 1; February: 2; ...; December: 12)
 
 year = 2022
 month =1
